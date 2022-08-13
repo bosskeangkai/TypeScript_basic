@@ -4,5 +4,4 @@ export interface Todo {
     isDone:boolean;
 }
 
-// test updating
-// test pushing git to github by used test-update branch
+// last time double check

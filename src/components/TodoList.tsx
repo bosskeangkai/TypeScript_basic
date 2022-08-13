@@ -17,8 +17,5 @@ const TodoList: React.FC<Props> = ({ todos, setTodos }) => {
         </div>
     );
 }
-// test update file
-// switching the checkout and try to input file
-// test updating another branch
-// double check how to fix this problem 
+// last time double check 
 export default TodoList;

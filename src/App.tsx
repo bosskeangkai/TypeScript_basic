@@ -10,8 +10,5 @@ const App: React.FC =() => { //FC:Function Components
     </div>
   );
 };
-// test updating to github for check update or not
-// switch to branch
-// try to update to git
-// test update another branch .
+// last time double check
 export default App;
