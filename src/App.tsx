@@ -10,5 +10,5 @@ const App: React.FC =() => { //FC:Function Components
     </div>
   );
 };
-
+// test updating to github for check update or not
 export default App;
